@@ -23,3 +23,11 @@ Compile and inject the DLL into your MW2 server (e.g. IW4MAdmin plugin folder or
 Configure detection toggles in Config/SentinelConfig.ini.
 
 Monitor detection logs in Logs/AuditTrail.json.
+
+## Status
+
+This project is experimental and untested. It has not been validated in production environments. Expect bugs and incomplete features. Use sandbox servers for testing.
+
+## Contributing
+
+Pull requests are welcome. Please submit test cases, detection improvements, lore expansions, or UI dashboards. All contributions should respect the modular, ethical, and contributor-safe design philosophy.
