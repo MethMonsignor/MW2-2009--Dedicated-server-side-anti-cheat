@@ -1,0 +1,14 @@
+{
+  "playerId": "MethMonsignor",
+  "timestamp": "2025-08-27T13:23:00Z",
+  "vector": "Spinbot",
+  "reason": "Gyro Destabilizer Signature Detected",
+  "severity": 3,
+  "replayLink": "sentinel://replay/1342",
+  "metadata": {
+    "map": "mp_terminal",
+    "matchId": "match_8721",
+    "faction": "Watchers",
+    "flags": ["Spinbot", "Behavioral"]
+  }
+}
